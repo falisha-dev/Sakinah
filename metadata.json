@@ -1,0 +1,6 @@
+{
+  "name": "Sakinah - Quranic Contemplation & Daily Reflections",
+  "description": "A minimalist sanctuary for emotional healing through Quranic wisdom, personalized daily reflections, and high-performance meditative 3D visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
